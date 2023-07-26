@@ -1,0 +1,31 @@
+#   DevOps Culture and Methodologies
+
+
+# **Course Day 1**
+
+## Useful Web Links
+[Periodic Table]( https://digital.ai/learn/devops-periodic-table/)
+
+## Common git commands
+
+1. git add
+2. git clone
+3. git branch
+4. git commit
+5. git checkout
+6. git pull
+7. git push
+
+# **Course Day 2**
+
+## What does this mean - git help
+
+|Symbol|Meaning|
+|--|--|
+|[]| Optional|
+|<>| Variable data you need to enter|
+|...| Accepts one or multiple files|
+|^| Upper Chevron (carrot)|
+|~| Tilder|
+
+# **Course Day 3**
