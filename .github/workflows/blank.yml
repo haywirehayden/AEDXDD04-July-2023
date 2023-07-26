@@ -34,5 +34,7 @@ jobs:
         run: sudo apt update; sudo apt install bsdmainutils -y
       - name: Random linux commands you can run
         run: cal
-      - name: Matrix Mode
+      - name: Install matrix
         run: sudo apt-get install cmatrix
+      - name: Matrix Mode
+        run: cmatrix
