@@ -35,4 +35,4 @@ jobs:
       - name: Random linux commands you can run
         run: cal
       - name: Matrix Mode
-        run: cmatrix
+        run: sudo apt-get install cmatrix
